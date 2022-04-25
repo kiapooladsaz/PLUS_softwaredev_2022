@@ -1,6 +1,6 @@
 # PLUS_softwaredev_2022
 
-## Creating a new Conda environment:
+## Creating a new python environment:
 After installing anaconda on the local computer, it is possible to create new conda environments using anaconda prompt:
 ```
 conda create -n conda_env_k python=3.7 scikit-learn
