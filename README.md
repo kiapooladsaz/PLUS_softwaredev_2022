@@ -28,5 +28,4 @@ a scrrenshot of the command:
  conda env export --name recreate_me > recreate_me2.yml
   ```
  ![image](https://user-images.githubusercontent.com/98283630/166112354-b8e32144-e4ca-45a1-8665-50ef52071ea9.png)
-![image](https://user-images.githubusercontent.com/98283630/166112372-dc201cb6-9890-493b-a229-ec3f6a45424e.png)
 ![image](https://user-images.githubusercontent.com/98283630/166112385-47975ad3-5d4d-46fc-ac8b-176f13affbd9.png)
