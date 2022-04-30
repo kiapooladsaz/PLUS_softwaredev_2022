@@ -16,7 +16,7 @@ a scrrenshot of the command:
 
 ![conda command](https://user-images.githubusercontent.com/98283630/165188718-99125824-722b-4400-995f-1c3505862c60.JPG)
  ## Recreating an existing environment
- The recreate_me.yml conda file has been used after cloning the forked depository (PLUS_softwaredev_2022)[https://github.com/augustinh22/PLUS_softwaredev_2022] on local. recreate_me activated and new packages installed in it as below:
+ The recreate_me.yml conda file has been used after cloning the forked depository [PLUS_softwaredev_2022[(https://github.com/augustinh22/PLUS_softwaredev_2022) on local. recreate_me activated and new packages installed in it as below:
  ```
  conda activate recreate_me
  conda install -c conda-forge rasterio
